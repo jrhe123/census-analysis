@@ -1,0 +1,6 @@
+MyModels/
+logs/
+adult/
+Predict/
+
+*.csv
